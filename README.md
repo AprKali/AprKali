@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AprKali&repo=github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprkali)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AprKali/AprKali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
