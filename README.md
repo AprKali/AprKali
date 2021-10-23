@@ -3,5 +3,5 @@
 </div>
 <div align="center">
     <img  src="http://github-readme-streak-stats.herokuapp.com?user=AprKali&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" />
-    <img src="https://giphy.com/embed/ciwgweZDnUydJShj6H" width="480" height="270" frameBorder="0" class="giphy-embed"/>
+    <img src="https://media.giphy.com/media/ciwgweZDnUydJShj6H/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed"/>
 </div>
