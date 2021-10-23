@@ -8,3 +8,8 @@
 <div align="center" >
     <img  src="http://github-readme-streak-stats.herokuapp.com?user=AprKali&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
+
+## 
+
+[![linkToLinkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertorosellomartin/) [![linkToLinkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertorosellomartin/) 
+
