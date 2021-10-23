@@ -1,3 +1,1 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprkali&theme=darcula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AprKali&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
