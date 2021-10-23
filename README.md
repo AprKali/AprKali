@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23F78E0D&center=true&vCenter=true&height=100&lines=Hello+world;My+name+is+Alberto"/>
 </div>
 <div align="center">
-    <img  src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif"/>
+    <img  width="300" src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif"/>
 </div>
 <br><br>
 <div align="center" >
