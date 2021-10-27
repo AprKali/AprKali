@@ -8,3 +8,19 @@
 <div align="center" >
     <img  src="http://github-readme-streak-stats.herokuapp.com?user=AprKali&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
+<br><br><br><br>
+
+
+
+
+# :bookmark_tabs: Actually Learning
+ - :blue_book: Flutter
+ - :green_book: Python
+ -   :green_book: Node.js
+ - :orange_book: TypeScript
+
+# :computer: Current Projects 
+ - :floppy_disk: Cross-Platform Application
+ - :floppy_disk: Portfolio
+
+
