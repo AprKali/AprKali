@@ -1,25 +1,13 @@
-<div align = "center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F78E0D&center=true&vCenter=true&height=100&lines=Hello+world;My+name+is+Alberto"/>
-</div>
-<div align="center">
-    <img  width="300" src="https://media.giphy.com/media/h8mB9WD5K406EM1wn2/giphy.gif"/>
-</div>
-<br><br>
-<div align="center" >
+
+<div align="left" >
     <img  src="http://github-readme-streak-stats.herokuapp.com?user=AprKali&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+     <img src="https://media.giphy.com/media/MbMUCH4MUffka1ZFeT/giphy.gif" width="300">
 </div>
-<br><br><br><br>
-
-
-
-
-# :bookmark_tabs: Actually Learning
- - :blue_book: Flutter
- - 📘 React.js
- - :green_book: Python
- - :green_book: Node.js
- - :green_book: Vue.js
- - :orange_book: TypeScript
+ 
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=aprkali&show_icons=true&theme=darcula"/>
+    <img src="https://media.giphy.com/media/S9Q0xOq91DGjN7d6yE/giphy.gif" width="300"/>
+</div>
 
 # :computer: Current Projects 
  - :floppy_disk: Cross-Platform Application
