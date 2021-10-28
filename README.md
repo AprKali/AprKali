@@ -15,8 +15,10 @@
 
 # :bookmark_tabs: Actually Learning
  - :blue_book: Flutter
+ - 📘: React.js
  - :green_book: Python
- -   :green_book: Node.js
+ - :green_book: Node.js
+ - :green_book: Vue.js
  - :orange_book: TypeScript
 
 # :computer: Current Projects 
