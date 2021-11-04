@@ -5,7 +5,7 @@
 </div>
  
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=aprkali&show_icons=true&theme=darcula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aprkali&show_icons=true&theme=darcula&count_private=true"/>
     <img src="https://media.giphy.com/media/S9Q0xOq91DGjN7d6yE/giphy.gif" width="300"/>
 </div>
 
