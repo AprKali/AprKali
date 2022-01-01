@@ -10,6 +10,7 @@
 </div>
 
 # :computer: Current Projects 
+ - :floppy_disk: Vue + Node + Buefy Website
  - :floppy_disk: Cross-Platform Application
  - :floppy_disk: Portfolio
 
