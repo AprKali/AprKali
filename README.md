@@ -28,6 +28,8 @@ ___
 
 ___
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4prkali&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4prkali&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 # :computer: Current Projects 
  - :floppy_disk: Vue + Node + Buefy Website
