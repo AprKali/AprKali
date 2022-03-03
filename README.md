@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=4prkali&show_icons=true&theme=darcula&count_private=true"/>
+    <img src="http://gamersushi.com/wp-content/uploads/firewatch.gif"/>
 </div>
 
 # :computer: Current Projects 
