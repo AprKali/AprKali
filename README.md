@@ -28,13 +28,8 @@ ___
 
 ___
   
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4prkali&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-# :computer: Current Projects 
- - :floppy_disk: Vue + Node + Buefy Website
- - :floppy_disk: Cross-Platform Application
- - :floppy_disk: Portfolio
-
-
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=4prkali&theme=github-dark&date_format=j%20M%5B%20Y%5D" />
+</a>
+</div>
