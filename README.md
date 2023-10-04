@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img width=704 src="http://gamersushi.com/wp-content/uploads/firewatch.gif"/>
+    <img width=704 src="https://media.tenor.com/-kZOB16tELEAAAAC/this-is-fine-fire.gif"/>
 </div>
 
 <div align="center">
